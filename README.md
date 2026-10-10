@@ -4,7 +4,7 @@
 
 * **Student Name:** Mohamed E Amara
 * **Student ID:** 905005067
-* **Class:** DIT1202F
+* **Class:** DIT1201F
 * **Institution:** Limkokwing University of Creative Technology, Sierra Leone
 * **Module:** Data Structures and Algorithm (DCOMP320)
 * **Assignment Title:** Stacks Implementation (Expression Evaluator)
